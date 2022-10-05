@@ -3,6 +3,16 @@ This repository contains my work on Kaggle which includes Data Visulaization , E
 
 Fork this repository and work on the dataset with your model and check for accuracy and procedures.
 
+##Want to contribute?
+
+-Fork this repository
+
+-Create an issue 
+
+-Make PR
+
+-Add your work also
+
 
 If you find my work useful do ⭐ the repository.
 
