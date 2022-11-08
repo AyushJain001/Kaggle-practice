@@ -17,4 +17,4 @@ Fork this repository and work on the dataset with your model and check for accur
 
 If you find my work useful do ⭐ the repository.
 
-Happy Learning.
+Happy Learning and contribute to this repository by making PR.
