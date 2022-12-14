@@ -1,5 +1,6 @@
 # Kaggle-practice
-(https://www.kaggle.com/)
+(https://www.kaggle.com/ayushjain001)
+
 This repository contains my work on Kaggle which includes Data Visulaization , EDA ,ML and model buiding part . You can check out my work on Kaggle.
 
 Fork this repository and work on the dataset with your model and check for accuracy and procedures.
