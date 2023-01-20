@@ -24,4 +24,6 @@ Top Kaggle Discussion Topic of mine-
 
 3-  https://www.kaggle.com/code/ayushjain001/world-happiness-report-eda
 
+4- https://www.kaggle.com/discussions/getting-started/378549
+
 Happy Learning and contribute to this repository by making PR.
